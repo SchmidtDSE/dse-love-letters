@@ -13,6 +13,4 @@ If not already hosted somewhere else, a quickstart Jupyter notebook (or a Binder
 
 ### Exploration guidelines
 
-If you are feeling lost and don't know where to start, check out our **Data exploration process - Guiding template**! 
-
-#todo: should we add the template in this repository as well? 
+If you are feeling lost and don't know where to start, check out our **Data exploration process - Guiding template** in `exploration-process.md`! 
