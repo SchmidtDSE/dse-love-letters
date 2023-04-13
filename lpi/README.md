@@ -1,6 +1,13 @@
 ### Exploring the
 # _Living Planet Index_ Database
 
+Full citation of materials:
+> LPI 2022. Living Planet Index database. 2022. www.livingplanetindex.org. Downloaded on March 2023.
+
+> WWF (2022) Living Planet Report 2022 – Building a nature-positive society (eds. Almond REA, Grooten M, Juffe Bignoli D, Petersen T). WWF, Gland, Switzerland.
+
+> Westveer, J, Freeman, R., McRae, L., Marconi, V., Almond, R.E.A, and Grooten, M. (2022) A Deep Dive into the Living Planet Index: A Technical Report. WWF, Gland, Switzerland.
+
 ## About this exploration
 
 The **Living Planet Index Database** is the data behind the calculation of the [Living Planet Index](https://www.livingplanetindex.org/) (LPI), 
