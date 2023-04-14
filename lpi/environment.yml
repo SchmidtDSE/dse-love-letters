@@ -1,0 +1,10 @@
+name: lpi-env
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - numpy
+    - pandas
+    - matplotlib
+    - seaborn
+    - plotly-express
