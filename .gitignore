@@ -1,4 +1,10 @@
 .DS_Store
+.idea/
 *__pycache__*
 *.ipynb_checkpoint*
 *.pyc
+*.egg-info
+__MACOSX
+*iframe_figures
+
+*data
