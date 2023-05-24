@@ -1,10 +1,10 @@
-*Data Love Letter*
+### <font color='grey' style='font-family:Georgia'>_Data Love Letter_</font>
 
-# NOAA AAFSC GAP
+# <font color='green' style='font-family:Georgia'>NOAA AFSC GAP</font>
 
-> To: DSE </br> From: Sam Pottinger </br> March 2023
+> To: _DSE_ <br> From: _A Sam Pottinger_ <br> _March 2023_
 
-## Preliminary
+## <font color='grey' style='font-family:Georgia'>Preliminary</font>
 
 ### 1. Why did you choose this dataset among many others?
 - *Is it known by the community?* Yes! This dataset is used extensively for fisheries management in Alaska.
@@ -28,7 +28,7 @@ region specific longitudinal datasets of biodiversity in the area. It touches on
 - *Are changes documented? If yes, how?* Yes on In-Port but the metadata do appear to trail (https://www.fisheries.noaa.gov/inport/item/22008).
 - *What version are you using?* It is not explicitly versioned but, from git activity, appears to be continually released.
 
-## First impressions
+## <font color='grey' style='font-family:Georgia'>First impressions</font>
 
 ### 5. What does the data look like?
 - *Could you find documentation for it? In what format(s)?* There is approximate documentation at https://github.com/afsc-gap-products/metadata 
@@ -49,7 +49,7 @@ dating back into before 2000 (my analysis and questions only looked 2000 and onw
 Yes the data on their own are presence only which limits their utilization. There are also “bad” records as discussed at https://github.com/SchmidtDSE/afscgap#data-quality-and-completeness 
 - *Is a cleaning step needed before starting to use this data?* Yes, if you are not using my newly created Python library: https://github.com/SchmidtDSE/afscgap 
 
-## Measure and visualize
+## <font color='grey' style='font-family:Georgia'>Measure and visualize</font>
 
 ### 8. What are some questions that this data can help answer?
 - *What are you having fun with right now?* What question(s) are you exploring and/or attempting to visualize? Pacific cod example: https://github.com/SchmidtDSE/afscgap/blob/main/notebooks/cod.ipynb 
@@ -81,7 +81,7 @@ estimates and the surveys cover specific geographic regions. It’s best to thin
 A lot of this work was influenced by my cod example which is specifically examining geohash based CPUE prevalence: 
 https://github.com/SchmidtDSE/afscgap/blob/main/notebooks/cod.ipynb. I’d be uncomfortable answering for other uses or functions like https://onlinelibrary.wiley.com/doi/full/10.1111/fog.12422. 
 
-## Reflection and future opportunities
+## <font color='grey' style='font-family:Georgia'>Reflection and future opportunities</font>
 
 ### 11. What lessons could be learned from exploring this data?
 - *What should we keep in mind when utilizing this dataset in the future?* I strongly recommend using my new library. 
