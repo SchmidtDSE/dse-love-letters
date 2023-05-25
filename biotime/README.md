@@ -35,5 +35,5 @@ Data is available in different formats:
 2. **Raw data in `.csv` zip file** (1.22 GB unzipped). 
 
 We downloaded both, but repackaged the MySQL into a sqlite database. Instructions to reproduce this step 
-(and direct download link to the newly created `.db` file) can be found in `sqlite-repackaging.md`.
+(and direct download link to the newly created `.db` file TODO: CONFIRM THIS WRT LICENCING) can be found in `sqlite-repackaging.md`.
 To run the `biotime.ipynb` notebook, local data should be placed in `biotime/data`.

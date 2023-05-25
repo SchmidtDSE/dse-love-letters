@@ -25,7 +25,7 @@ downloading / using db-specific software in the process.
 
 ## Usage
 
-**Download:** https://drive.google.com/file/d/1y6rzS0DVnHkUTbqXwrrIkIiPB3Awbxej/view
+**Download:** TODO: CHECK LINK WRT LICENCING
 - Licence / credits: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
   - A Samuel Pottinger, Giulia Zarpellon, and Regents of University of California
   - Dornelas M, Antão LH, Moyes F, Bates, AE, Magurran, AE, et al. BioTIME: A database of biodiversity time series for the Anthropocene. Global Ecol Biogeogr. 2018; 27:760 - 786. https://doi.org/10.1111/geb.12729
